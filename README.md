@@ -1,4 +1,13 @@
 ## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
+- Bulleted
+- List
 
 You can use the [editor on GitHub](https://github.com/LaserTb/coursera-JH-HTML-CSS-JS/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,8 +24,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
